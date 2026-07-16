@@ -1,7 +1,7 @@
 # Greyanne
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Greyanne&fontAlign=50&fontAlignY=38&color=0:1a1b27,50:7c3aed,100:38bdf8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GREYANNE%20TENEDERO&fontSize=48&fontAlign=50&fontAlignY=38&desc=Product%20Support%20Analyst%20•%20QA%20Tester%20•%20Technical%20Support&descAlign=50&descAlignY=58&color=0:1a1b27,50:7c3aed,100:38bdf8"/>
 </p>
 
 <p align="center">
