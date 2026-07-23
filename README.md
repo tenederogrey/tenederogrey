@@ -1,23 +1,30 @@
 # Greyanne
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;text=GREYANNE%20TENEDERO&amp;fontSize=48&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Software%20%26%20Product%20Support%20Analyst%20%7C%20QA%20Tester%20%7C%20CX,%20AI%20%26%20Automation&amp;descAlign=50&amp;descAlignY=58&amp;color=0:1a1b27,50:7c3aed,100:38bdf8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GREYANNE%20TENEDERO&fontSize=48&fontAlign=50&fontAlignY=50&color=0:1a1b27,50:7c3aed,100:38bdf8" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Software+%26+Product+Support+Analyst;QA+Tester;CX,+AI+%26+Automation;Building+Reliable+Software+Experiences"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Software+and+Product+Support+Analyst;QA+Tester;CX,+AI+and+Automation;Technical+Documentation+%7C+API+Testing;Building+Reliable+Software+Experiences" />
 </p>
 
 <p align="center">
   <a href="https://tenederogrey.framer.website">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/tenedergrey/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:greyannevon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-greyannevon@gmail.com-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <em>
+    Passionate about delivering exceptional customer experiences through
+    Product Support, Quality Assurance, Technical Documentation, and AI-powered workflows.
+  </em>
 </p>
 
 ---
